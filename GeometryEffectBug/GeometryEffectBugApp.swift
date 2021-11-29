@@ -2,7 +2,7 @@
 //  GeometryEffectBugApp.swift
 //  GeometryEffectBug
 //
-//  Created by Maren Haid on 29.11.21.
+//  Created by Maren on 29.11.21.
 //
 
 import SwiftUI
